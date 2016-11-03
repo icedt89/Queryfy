@@ -1,6 +1,6 @@
 # Queryfy
 
-Lets you build query strings and url segment. 
+Lets you build query strings and url segments out of your object model. 
 
 ## Info
 
